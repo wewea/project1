@@ -1,0 +1,18 @@
+Start write 2014-05-06 19:14:26
+===============================
+[INFO]: 2014-05-06 19:14:26	FILE:Dict.cpp LINE:30	Open config file success!
+[INFO]: 2014-05-06 19:14:26	FILE:Dict.cpp LINE:36	Parse config file finished.
+[INFO]: 2014-05-06 19:14:26	FILE:Dict.cpp LINE:46	Start read dict source file.
+[INFO]: 2014-05-06 19:14:26	FILE:Dict.cpp LINE:69	Start write dict to file.
+[END]: 2014-05-06 19:14:26	Log record end
+
+
+Start write 2014-05-06 21:08:22
+===============================
+[INFO]: 2014-05-06 21:08:22	FILE:Dict.cpp LINE:30	Open config file success!
+[INFO]: 2014-05-06 21:08:22	FILE:Dict.cpp LINE:36	Parse config file finished.
+[INFO]: 2014-05-06 21:08:22	FILE:Dict.cpp LINE:46	Start read dict source file.
+[INFO]: 2014-05-06 21:08:22	FILE:Dict.cpp LINE:69	Start write dict to file.
+[END]: 2014-05-06 21:08:22	Log record end
+
+

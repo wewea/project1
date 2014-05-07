@@ -1,0 +1,22 @@
+Start write 2014-05-07 14:41:41
+===============================
+[INFO]: 2014-05-07 14:41:41	FILE:Dict.cpp LINE:30	Open config file success!
+[INFO]: 2014-05-07 14:41:41	FILE:Dict.cpp LINE:36	Parse config file finished.
+[INFO]: 2014-05-07 14:41:41	FILE:Dict.cpp LINE:46	Start read dict source file.
+[INFO]: 2014-05-07 14:41:41	FILE:Dict.cpp LINE:69	Start write dict to file.
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:21	Open dict file success! start get_dict_map
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:42	 Start query word [hello]
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:70	 Start get_query_result.
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:47	 Return result of [hello]
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:70	 Start get_query_result.
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:42	 Start query word [why]
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:70	 Start get_query_result.
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:47	 Return result of [why]
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:70	 Start get_query_result.
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:42	 Start query word [you]
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:70	 Start get_query_result.
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:47	 Return result of [you]
+[INFO]: 2014-05-07 14:41:41	FILE:Query.cpp LINE:70	 Start get_query_result.
+[END]: 2014-05-07 14:41:41	Query end
+
+

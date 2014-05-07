@@ -1,0 +1,36 @@
+Start write 2014-05-07 11:54:13
+===============================
+[INFO]: 2014-05-07 11:54:13	FILE:Dict.cpp LINE:30	Open config file success!
+[INFO]: 2014-05-07 11:54:13	FILE:Dict.cpp LINE:36	Parse config file finished.
+[INFO]: 2014-05-07 11:54:13	FILE:Dict.cpp LINE:46	Start read dict source file.
+[INFO]: 2014-05-07 11:54:13	FILE:Dict.cpp LINE:69	Start write dict to file.
+[END]: 2014-05-07 11:54:13	Log record end
+
+
+Start write 2014-05-07 13:37:41
+===============================
+[INFO]: 2014-05-07 13:37:41	FILE:Dict.cpp LINE:30	Open config file success!
+[INFO]: 2014-05-07 13:37:41	FILE:Dict.cpp LINE:36	Parse config file finished.
+[INFO]: 2014-05-07 13:37:41	FILE:Dict.cpp LINE:46	Start read dict source file.
+[INFO]: 2014-05-07 13:37:41	FILE:Dict.cpp LINE:69	Start write dict to file.
+[END]: 2014-05-07 13:37:41	Log record end
+
+
+Start write 2014-05-07 13:39:06
+===============================
+[INFO]: 2014-05-07 13:39:06	FILE:Dict.cpp LINE:30	Open config file success!
+[INFO]: 2014-05-07 13:39:06	FILE:Dict.cpp LINE:36	Parse config file finished.
+[INFO]: 2014-05-07 13:39:06	FILE:Dict.cpp LINE:46	Start read dict source file.
+[INFO]: 2014-05-07 13:39:06	FILE:Dict.cpp LINE:69	Start write dict to file.
+[END]: 2014-05-07 13:39:06	Log record end
+
+
+Start write 2014-05-07 13:40:24
+===============================
+[INFO]: 2014-05-07 13:40:24	FILE:Dict.cpp LINE:30	Open config file success!
+[INFO]: 2014-05-07 13:40:24	FILE:Dict.cpp LINE:36	Parse config file finished.
+[INFO]: 2014-05-07 13:40:24	FILE:Dict.cpp LINE:46	Start read dict source file.
+[INFO]: 2014-05-07 13:40:24	FILE:Dict.cpp LINE:69	Start write dict to file.
+[END]: 2014-05-07 13:40:24	Log record end
+
+
