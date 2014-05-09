@@ -1,0 +1,88 @@
+Start write 2014-05-09 14:18:46
+===============================
+[INFO]: 2014-05-09 14:18:46	Dict.cpp: 78	 Start read dict source file.
+[INFO]: 2014-05-09 14:18:49	Dict.cpp: 142	 Start write dict to file.
+[INFO]: 2014-05-09 14:18:51	Query.cpp: 24	 Start query word [hello]
+[INFO]: 2014-05-09 14:18:51	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:18:51	Query.cpp: 29	 Return result of [hello]
+[INFO]: 2014-05-09 14:18:51	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:18:52	Query.cpp: 24	 Start query word [hao]
+[INFO]: 2014-05-09 14:18:52	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:18:52	Query.cpp: 29	 Return result of [hao]
+[INFO]: 2014-05-09 14:18:52	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:18:55	Query.cpp: 24	 Start query word [why]
+[INFO]: 2014-05-09 14:18:55	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:18:55	Query.cpp: 29	 Return result of [why]
+[INFO]: 2014-05-09 14:18:55	Query.cpp: 52	 Start get_query_result.
+[END]: 2014-05-09 14:18:57	Query end
+
+
+Start write 2014-05-09 14:26:43
+===============================
+Set log severtiy [INFO][INFO]: 2014-05-09 14:26:43	Dict.cpp: 78	 Dict Loading
+[INFO]: 2014-05-09 14:26:44	Dict.cpp: 142	 Start write dict to file.
+[INFO]: 2014-05-09 14:26:50	Query.cpp: 24	 Start query word [hello]
+[INFO]: 2014-05-09 14:26:50	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:26:50	Query.cpp: 29	 Return result of [hello]
+[INFO]: 2014-05-09 14:26:50	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:26:59	Query.cpp: 24	 Start query word [hei]
+[INFO]: 2014-05-09 14:26:59	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:26:59	Query.cpp: 29	 Return result of [hei]
+[INFO]: 2014-05-09 14:26:59	Query.cpp: 52	 Start get_query_result.
+[END]: 2014-05-09 14:27:03	Query end
+
+
+Start write 2014-05-09 14:28:28Set log severtiy [INFO]
+===============================
+[INFO]: 2014-05-09 14:28:28	Init.cpp: 31	 Parse config file finished.
+[INFO]: 2014-05-09 14:28:28	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 14:28:29	Dict.cpp: 143	 Start write dict to file.
+[INFO]: 2014-05-09 14:28:35	Query.cpp: 24	 Start query word [say]
+[INFO]: 2014-05-09 14:28:35	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:28:35	Query.cpp: 29	 Return result of [say]
+[INFO]: 2014-05-09 14:28:35	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:28:35	Query.cpp: 24	 Start query word [hai]
+[INFO]: 2014-05-09 14:28:35	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:28:35	Query.cpp: 29	 Return result of [hai]
+[INFO]: 2014-05-09 14:28:35	Query.cpp: 52	 Start get_query_result.
+Start write 2014-05-09 14:35:12
+===============================
+[INFO]: 2014-05-09 14:35:12Set Log Severity[INFO][INFO]: 2014-05-09 14:35:12	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 14:35:14	Dict.cpp: 143	 Start write dict to file.
+[INFO]: 2014-05-09 14:35:17	Query.cpp: 24	 Start query word [SORRY]
+[INFO]: 2014-05-09 14:35:17	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:35:17	Query.cpp: 29	 Return result of [SORRY]
+[INFO]: 2014-05-09 14:35:17	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:35:24	Query.cpp: 24	 Start query word [YOU]
+[INFO]: 2014-05-09 14:35:24	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:35:24	Query.cpp: 29	 Return result of [YOU]
+[INFO]: 2014-05-09 14:35:24	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:35:36	Query.cpp: 24	 Start query word [you]
+[INFO]: 2014-05-09 14:35:36	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:35:36	Query.cpp: 29	 Return result of [you]
+[INFO]: 2014-05-09 14:35:36	Query.cpp: 52	 Start get_query_result.
+[END]: 2014-05-09 14:35:39	Query end
+
+
+Start write 2014-05-09 14:37:04
+===============================
+[INFO]: 2014-05-09 14:37:04	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 14:37:06	Dict.cpp: 143	 Start write dict to file.
+[INFO]: 2014-05-09 14:37:17	Query.cpp: 24	 Start query word [hi]
+[INFO]: 2014-05-09 14:37:17	Query.cpp: 52	 Start get_query_result.
+[INFO]: 2014-05-09 14:37:18	Query.cpp: 29	 Return result of [hi]
+[INFO]: 2014-05-09 14:37:18	Query.cpp: 52	 Start get_query_result.
+[END]: 2014-05-09 14:37:19	Query end
+
+
+Start write 2014-05-09 14:46:18
+===============================
+[INFO]: 2014-05-09 14:46:18	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 14:46:20	Dict.cpp: 143	 Start write dict to file.
+[INFO]: 2014-05-09 14:46:22	Query.cpp: 33	 Start query word [you]
+[INFO]: 2014-05-09 14:46:22	Query.cpp: 38	 Return result of [you]
+[INFO]: 2014-05-09 14:46:27	Query.cpp: 33	 Start query word [huo]
+[INFO]: 2014-05-09 14:46:27	Query.cpp: 38	 Return result of [huo]
+[END]: 2014-05-09 14:46:29	Query end
+
+

@@ -34,3 +34,39 @@ Start write 2014-05-07 13:40:24
 [END]: 2014-05-07 13:40:24	Log record end
 
 
+Start write 2014-05-09 15:40:43
+===============================
+[INFO]: 2014-05-09 15:40:43	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 15:40:45	Dict.cpp: 143	 Start write dict to file.
+Start write 2014-05-09 15:48:06
+===============================
+[INFO]: 2014-05-09 15:48:06	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 15:48:08	Dict.cpp: 143	 Start write dict to file.
+Start write 2014-05-09 15:51:46
+===============================
+[INFO]: 2014-05-09 15:51:46	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 15:51:48	Dict.cpp: 143	 Start write dict to file.
+Start write 2014-05-09 16:01:29
+===============================
+[INFO]: 2014-05-09 16:01:29	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 16:01:31	Dict.cpp: 143	 Start write dict to file.
+[INFO]: 2014-05-09 16:01:43	Query.cpp: 32	 Start query word [hello]
+[INFO]: 2014-05-09 16:01:43	Query.cpp: 36	 Return result of [hello]
+Start write 2014-05-09 16:10:07
+===============================
+[INFO]: 2014-05-09 16:10:07	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 16:10:09	Dict.cpp: 143	 Start write dict to file.
+[INFO]: 2014-05-09 16:10:17	Query.cpp: 32	 Start query word [hello]
+[INFO]: 2014-05-09 16:10:17	Query.cpp: 36	 Return result of [hello]
+Start write 2014-05-09 16:12:02
+===============================
+[INFO]: 2014-05-09 16:12:02	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 16:12:04	Dict.cpp: 143	 Start write dict to file.
+[INFO]: 2014-05-09 16:12:17	Query.cpp: 32	 Start query word [sorry]
+[INFO]: 2014-05-09 16:12:17	Query.cpp: 36	 Return result of [sorry]
+Start write 2014-05-09 16:25:08
+===============================
+[INFO]: 2014-05-09 16:25:08	Dict.cpp: 79	 Start read dict source file.
+[INFO]: 2014-05-09 16:25:10	Dict.cpp: 143	 Start write dict to file.
+[INFO]: 2014-05-09 16:25:37	Query.cpp: 32	 Start query word [say]
+[INFO]: 2014-05-09 16:25:37	Query.cpp: 36	 Return result of [say]
