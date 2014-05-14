@@ -1,0 +1,13 @@
+Start write 2014-05-14 01:11:28
+===============================
+[INFO]: 2014-05-14 01:11:28	Cache.cpp: 54	 Open cache file success
+[INFO]: 2014-05-14 01:11:28	Cache.cpp: 73	 Read cache file finished!
+[INFO]: 2014-05-14 01:11:28	ThreadPool.cpp: 25	 ThreadPool Register
+[INFO]: 2014-05-14 01:11:28	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-14 01:11:35	ThreadPool.cpp: 47	 ThreadPool Start
+[INFO]: 2014-05-14 01:11:37	Cache.cpp: 88	 Write cache file 
+[INFO]: 2014-05-14 01:11:45	ThreadPool.cpp: 80	 Add Task 北京   中国
+[INFO]: 2014-05-14 01:11:45	WorkThread.cpp: 37	 1100782400 Get Task 北京   中国
+[INFO]: 2014-05-14 01:11:45	Query.cpp: 25	 Start query word [北京中国]
+[INFO]: 2014-05-14 01:11:45	WorkThread.cpp: 143	 Could not find [北京中国] in cache.
+[INFO]: 2014-05-14 01:11:45	Query.cpp: 91	 Return result  [中国 北京 北京市 北京大学 北京城 ]

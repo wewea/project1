@@ -41,13 +41,8 @@ class Dict
 		~Dict();
 		std::ifstream &open_file(std::ifstream &is, const std::string &file);
 		std::ofstream &output_file(std::ofstream & out, const std::string &filename);
-	    //friend print_dict(std::pair<std::string, int> &s);
 		bool read_file(const std::string &);
-		//bool write_file(const std::string &);
-		//void getword( char *buf);
 
-	    //void print(std::map<std::string, int>::value_type s);
-		//void to_lower(char **src);
 	private:
 		static std::vector<std::pair<std::string, int> > _dict;
 		static std::map<uint16_t, std::set<int> > _index;

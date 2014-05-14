@@ -24,6 +24,7 @@ class Query
 	public:
 		Query(int num = 5);
 		~Query();
+
 		int ED_Uint16(const std::vector<uint16_t> &w1, const std::vector<uint16_t> &w2);
 		bool GetQueryWord(const std::string &request);
 		void Cut(std::string&, std::vector<uint16_t>&);
@@ -32,6 +33,7 @@ class Query
 		std::string GetResult();
 		std::string SortWord(const std::set<int>& repeat, const std::set<int>& distint,
 		const std::vector<uint16_t>&query_word);
+		
 	private:
 		std::string _query_word;
 		std::string _query_result;

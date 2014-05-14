@@ -34,7 +34,6 @@ bool Query::GetQueryWord(const std::string &request)
 	char buf[256]="";
 	sprintf(buf, "%s: %d\t Start query word [%s]", __FILE__, __LINE__, request.c_str());
 	LOGGER_WRITE(Logger::INFO, buf)
-
 	return true;
 	}
 }
@@ -140,7 +139,7 @@ string Query::SortWord(const set<int>& repeat, const set<int>& distint,
 void Query::Enqueue(priority_queue<EditDist> &queue, const vector<uint16_t> &query_word, 
 	const set<int> &index) 
 {
-	//EncodingConverter trans("GBK", "UTF8");
+	EncodingConverter trans("GBK", "UTF8");
 	vector<uint16_t> candicate_word;
 	pair<string, int>word;
 	string cmp_word;
@@ -216,7 +215,7 @@ int Query::ED_Uint16(const vector<uint16_t> &w1, const vector<uint16_t> &w2)
 	{
 		for(int iy = 1; iy <= len_b; ++iy)
 		{
-			int cost = (w1[ix] == w2[iy]) ? 0 : 1;
+			int cost = (w1[ix-1] == w2[iy-1]) ? 0 : 1;
 			int substitution = memo[ix-1][iy-1] + cost;
 			int insertion = memo[ix][iy-1] + 1;
 			int deletion = memo[ix-1][iy] + 1;

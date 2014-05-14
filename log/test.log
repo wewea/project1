@@ -298,3 +298,122 @@ Start write 2014-05-11 16:35:11
 [END]: 2014-05-11 16:35:38	Query end
 
 
+Start write 2014-05-12 20:05:48
+===============================
+Start write 2014-05-12 20:07:27
+===============================
+Start write 2014-05-12 20:09:22
+===============================
+Start write 2014-05-12 20:10:36
+===============================
+Start write 2014-05-12 20:15:05
+===============================
+Start write 2014-05-12 20:21:43
+===============================
+Start write 2014-05-12 20:28:04
+===============================
+Start write 2014-05-12 20:32:57
+===============================
+Start write 2014-05-12 20:35:36
+===============================
+Start write 2014-05-12 20:36:49
+===============================
+Start write 2014-05-12 20:42:54
+===============================
+Start write 2014-05-12 20:48:01
+===============================
+[INFO]: 2014-05-12 20:48:01	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-12 20:48:01	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-12 20:48:18	Query.cpp: 36	 Start query word [北京]
+[INFO]: 2014-05-12 20:48:18	WorkThread.cpp: 109	 Could not find the key in cache.
+[INFO]: 2014-05-12 20:48:18	Query.cpp: 105	 Return result of [北京 北京市 北京城 北京队 北京站 ]
+[INFO]: 2014-05-12 20:48:18	WorkThread.cpp: 115	 Candicate :北京 北京市 北京城 北京队 北京站 
+Start write 2014-05-12 20:50:50
+===============================
+[INFO]: 2014-05-12 20:50:50	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-12 20:50:50	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-12 20:51:03	Query.cpp: 36	 Start query word [北京]
+[INFO]: 2014-05-12 20:51:03	WorkThread.cpp: 109	 Could not find the key in cache.
+[INFO]: 2014-05-12 20:51:03	Query.cpp: 105	 Return result of [北京 北京市 北京城 北京队 北京站 ]
+[INFO]: 2014-05-12 20:51:03	WorkThread.cpp: 115	 Candicate :北京 北京市 北京城 北京队 北京站 
+[END]: 2014-05-12 20:51:03	Query end
+
+
+Start write 2014-05-12 21:38:09
+===============================
+[INFO]: 2014-05-12 21:38:09	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-12 21:38:09	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-12 21:38:09	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-12 21:38:09	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-12 21:38:18	Query.cpp: 35	 Start query word [北京科技]
+[END]: 2014-05-12 21:38:21	Query end
+
+
+Start write 2014-05-12 21:44:26
+===============================
+[INFO]: 2014-05-12 21:44:26	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-12 21:44:26	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-12 21:44:26	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-12 21:44:26	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-12 21:44:34	Query.cpp: 35	 Start query word [北京科技]
+[INFO]: 2014-05-12 21:44:34	Query.cpp: 99	 Return result of [东盛科技 北京 高科技 朗讯科技 方正科技 ]
+Start write 2014-05-12 21:45:57
+===============================
+[INFO]: 2014-05-12 21:45:57	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-12 21:45:57	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-12 21:45:57	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-12 21:45:57	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-12 21:46:06	Query.cpp: 35	 Start query word [北京]
+[INFO]: 2014-05-12 21:46:07	Query.cpp: 99	 Return result of [北京 北京市 北京城 北京队 北京站 ]
+[INFO]: 2014-05-12 21:46:29	Query.cpp: 35	 Start query word [科技]
+[INFO]: 2014-05-12 21:46:29	Query.cpp: 99	 Return result of [科技 高科技 科技部 科技界 科技史 ]
+[INFO]: 2014-05-12 21:47:05	Query.cpp: 35	 Start query word [北小吃]
+[INFO]: 2014-05-12 21:47:05	Query.cpp: 99	 Return result of [小吃 大小通吃 特色小吃 风味小吃 北京小吃 ]
+[INFO]: 2014-05-12 21:47:19	Query.cpp: 35	 Start query word [朝阳医院]
+[INFO]: 2014-05-12 21:47:19	Query.cpp: 99	 Return result of [朝阳医院 朝阳 朝阳门 协和医院 儿童医院 ]
+[INFO]: 2014-05-12 21:48:50	Query.cpp: 35	 Start query word [北京朝阳医院]
+[INFO]: 2014-05-12 21:48:50	Query.cpp: 99	 Return result of [北京朝阳医院 北京协和医院 张朝阳 西京医院 北京医院 ]
+Start write 2014-05-12 21:51:54
+===============================
+[INFO]: 2014-05-12 21:51:54	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-12 21:51:54	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-12 21:51:54	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-12 21:51:54	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-12 21:52:03	Query.cpp: 35	 Start query word [北京]
+[INFO]: 2014-05-12 21:52:03	Query.cpp: 99	 Return result of [北京移动通信有限责任公司 北京市二十一世纪实验学校 北京大学中国经济研究中心 北京市劳动和社会保障局 北京市第一中级人民法院 ]
+[INFO]: 2014-05-12 21:52:25	Query.cpp: 35	 Start query word [北京朝阳医院]
+[INFO]: 2014-05-12 21:52:25	Query.cpp: 99	 Return result of [哈尔滨医科大学第二附属医院 北京移动通信有限责任公司 北京市二十一世纪实验学校 北京大学中国经济研究中心 中国医学科学院肿瘤医院 ]
+[INFO]: 2014-05-12 21:52:47	Query.cpp: 35	 Start query word [朝阳医院]
+[INFO]: 2014-05-12 21:52:47	Query.cpp: 99	 Return result of [哈尔滨医科大学第二附属医院 中国医学科学院肿瘤医院 第四军医大学西京医院 上海市第一人民医院 中国预防医学科学院 ]
+Start write 2014-05-12 22:01:48
+===============================
+[INFO]: 2014-05-12 22:01:48	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-12 22:01:48	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-12 22:01:48	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-12 22:01:48	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-12 22:02:02	Query.cpp: 35	 Start query word [北京]
+[INFO]: 2014-05-12 22:02:02	Query.cpp: 98	 Return result of [北京 北京市 北京城 北京队 北京站 ]
+[INFO]: 2014-05-12 22:02:08	Query.cpp: 35	 Start query word [北京朝阳医院]
+[INFO]: 2014-05-12 22:02:08	Query.cpp: 98	 Return result of [北京朝阳医院 北京协和医院 北京医院 北京同仁医院 朝阳医院 ]
+[END]: 2014-05-12 22:02:16	Query end
+
+
+Start write 2014-05-13 10:22:22
+===============================
+Start write 2014-05-13 17:10:06
+===============================
+[INFO]: 2014-05-13 17:10:06	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-13 17:10:06	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-13 17:10:06	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-13 17:10:06	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 17:10:14	Query.cpp: 35	 Start query word [北京]
+[INFO]: 2014-05-13 17:10:14	Query.cpp: 98	 Return result of [北京 北京市 北京城 北京队 北京站 ]
+[INFO]: 2014-05-13 17:10:17	Query.cpp: 35	 Start query word [天下第一]
+[INFO]: 2014-05-13 17:10:17	Query.cpp: 98	 Return result of [天下第一 天下第一关 天下为一 第一 天下 ]
+[INFO]: 2014-05-13 17:10:30	Query.cpp: 35	 Start query word [朝阳医院]
+[INFO]: 2014-05-13 17:10:30	Query.cpp: 98	 Return result of [朝阳医院 医院 朝阳 朝阳区 朝阳门 ]
+[INFO]: 2014-05-13 17:10:39	Query.cpp: 35	 Start query word [北京朝阳医院]
+[INFO]: 2014-05-13 17:10:39	Query.cpp: 98	 Return result of [北京朝阳医院 北京协和医院 北京医院 北京同仁医院 朝阳医院 ]
+[END]: 2014-05-13 17:10:45	Query end
+
+

@@ -1,0 +1,266 @@
+Start write 2014-05-13 00:00:59
+===============================
+[INFO]: 2014-05-13 00:00:59	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-13 00:00:59	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-13 00:00:59	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-13 00:00:59	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 00:00:59	Cache.cpp: 56	 Read cache file finished!
+[INFO]: 2014-05-13 00:00:59	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 00:00:59	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 00:01:05	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 00:01:12	ThreadPool.cpp: 77	 Add Task 北京
+[INFO]: 2014-05-13 00:01:12	WorkThread.cpp: 36	 1115487040 Get Task 北京
+[INFO]: 2014-05-13 00:01:12	Query.cpp: 42	 Start query word [北京]
+[INFO]: 2014-05-13 00:01:12	WorkThread.cpp: 119	 Could not find the key in cache.
+[INFO]: 2014-05-13 00:01:12	Query.cpp: 111	 Return result  [北京北站 北京 北京市 北京大学 北京城 ]
+Start write 2014-05-13 00:11:01
+===============================
+Start write 2014-05-13 00:13:16
+===============================
+Start write 2014-05-13 00:17:38
+===============================
+[INFO]: 2014-05-13 00:17:38	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 00:17:38	Cache.cpp: 56	 Read cache file finished!
+[INFO]: 2014-05-13 00:17:38	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 00:17:38	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 00:17:42	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 00:17:49	ThreadPool.cpp: 77	 Add Task 北京
+[INFO]: 2014-05-13 00:17:49	WorkThread.cpp: 36	 1102887744 Get Task 北京
+[INFO]: 2014-05-13 00:17:49	Query.cpp: 42	 Start query word [北京]
+[INFO]: 2014-05-13 00:17:49	WorkThread.cpp: 119	 Could not find the key in cache.
+[INFO]: 2014-05-13 00:17:49	Query.cpp: 111	 Return result  [北京北站 北京 北京市 北京大学 北京城 ]
+Start write 2014-05-13 00:19:13
+===============================
+[INFO]: 2014-05-13 00:19:13	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 00:19:13	Cache.cpp: 56	 Read cache file finished!
+[INFO]: 2014-05-13 00:19:13	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 00:19:13	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 00:19:16	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 00:19:23	ThreadPool.cpp: 77	 Add Task 北京
+[INFO]: 2014-05-13 00:19:23	WorkThread.cpp: 36	 1102887744 Get Task 北京
+[INFO]: 2014-05-13 00:19:23	Query.cpp: 42	 Start query word [北京]
+[INFO]: 2014-05-13 00:19:23	WorkThread.cpp: 119	 Could not find the key in cache.
+[INFO]: 2014-05-13 00:19:23	Query.cpp: 111	 Return result  [北京北站 北京 北京市 北京大学 北京城 ]
+Start write 2014-05-13 00:24:28
+===============================
+[INFO]: 2014-05-13 00:24:28	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 00:24:28	Cache.cpp: 56	 Read cache file finished!
+[INFO]: 2014-05-13 00:24:28	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 00:24:28	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 00:24:33	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 00:24:38	ThreadPool.cpp: 77	 Add Task 北京
+[INFO]: 2014-05-13 00:24:38	WorkThread.cpp: 36	 1102887744 Get Task 北京
+[INFO]: 2014-05-13 00:24:38	Query.cpp: 42	 Start query word [北京]
+[INFO]: 2014-05-13 00:24:38	WorkThread.cpp: 119	 Could not find the key in cache.
+[INFO]: 2014-05-13 00:24:38	Query.cpp: 111	 Return result  [北京北站 北京 北京市 北京大学 北京城 ]
+[END]: 2014-05-13 00:24:38	Query end
+
+
+Start write 2014-05-13 00:49:09
+===============================
+[INFO]: 2014-05-13 00:49:09	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 00:49:09	Cache.cpp: 56	 Read cache file finished!
+[INFO]: 2014-05-13 00:49:09	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 00:49:09	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 00:49:13	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 00:49:19	ThreadPool.cpp: 77	 Add Task 
+[INFO]: 2014-05-13 00:49:19	WorkThread.cpp: 36	 1085283136 Get Task 
+[END]: 2014-05-13 00:49:19	Query end
+
+
+Start write 2014-05-13 01:32:24
+===============================
+[INFO]: 2014-05-13 01:32:24	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-13 01:32:24	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-13 01:32:24	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-13 01:32:24	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 01:32:24	Cache.cpp: 56	 Read cache file finished!
+[INFO]: 2014-05-13 01:32:24	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 01:32:24	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 01:32:28	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 01:32:33	Cache.cpp: 71	 Write cache file 
+[INFO]: 2014-05-13 01:32:43	Cache.cpp: 71	 Write cache file 
+Start write 2014-05-13 01:33:29
+===============================
+[INFO]: 2014-05-13 01:33:29	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 01:33:29	Cache.cpp: 56	 Read cache file finished!
+[INFO]: 2014-05-13 01:33:29	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 01:33:29	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 01:33:34	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 01:33:38	Cache.cpp: 71	 Write cache file 
+Start write 2014-05-13 01:39:43
+===============================
+[INFO]: 2014-05-13 01:39:43	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 01:39:43	Cache.cpp: 56	 Read cache file finished!
+[INFO]: 2014-05-13 01:39:43	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 01:39:43	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 01:39:47	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 01:39:52	Cache.cpp: 71	 Write cache file 
+Start write 2014-05-13 01:45:01
+===============================
+[INFO]: 2014-05-13 01:45:01	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 01:45:01	Cache.cpp: 56	 Read cache file finished!
+[INFO]: 2014-05-13 01:45:01	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 01:45:01	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 01:45:05	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 01:45:10	Cache.cpp: 71	 Write cache file 
+Start write 2014-05-13 01:53:33
+===============================
+[INFO]: 2014-05-13 01:53:33	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 01:53:33	Cache.cpp: 59	 Read cache file finished!
+[INFO]: 2014-05-13 01:53:33	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 01:53:33	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 01:53:37	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 01:53:42	Cache.cpp: 74	 Write cache file 
+[INFO]: 2014-05-13 01:53:48	ThreadPool.cpp: 77	 Add Task 香港
+[INFO]: 2014-05-13 01:53:48	WorkThread.cpp: 36	 1085283136 Get Task 香港
+[INFO]: 2014-05-13 01:53:48	Query.cpp: 35	 Start query word [香港]
+[INFO]: 2014-05-13 01:53:48	WorkThread.cpp: 135	 Could not find the key in cache.
+[INFO]: 2014-05-13 01:53:48	Query.cpp: 104	 Return result  [香港 香港岛 香港游 香港队 香港站 ]
+Start write 2014-05-13 02:07:08
+===============================
+[INFO]: 2014-05-13 02:07:08	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-13 02:07:08	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 02:07:08	Cache.cpp: 59	 Read cache file finished!
+[INFO]: 2014-05-13 02:07:08	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 02:07:08	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 02:07:12	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 02:07:17	Cache.cpp: 74	 Write cache file 
+[INFO]: 2014-05-13 02:07:20	ThreadPool.cpp: 77	 Add Task 北京
+[INFO]: 2014-05-13 02:07:20	WorkThread.cpp: 36	 1098685248 Get Task 北京
+[INFO]: 2014-05-13 02:07:20	Query.cpp: 36	 Start query word [北京]
+[INFO]: 2014-05-13 02:07:20	WorkThread.cpp: 136	 Could not find the key in cache.
+[INFO]: 2014-05-13 02:07:20	Query.cpp: 105	 Return result  [北京 北京市 北京城 北京队 北京站 ]
+Start write 2014-05-13 09:59:12
+===============================
+[INFO]: 2014-05-13 09:59:12	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-13 09:59:12	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-13 09:59:12	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-13 09:59:12	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 09:59:12	Cache.cpp: 58	 Read cache file finished!
+[INFO]: 2014-05-13 09:59:12	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 09:59:12	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 09:59:15	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 09:59:21	Cache.cpp: 73	 Write cache file 
+[INFO]: 2014-05-13 09:59:22	ThreadPool.cpp: 77	 Add Task 北京
+[INFO]: 2014-05-13 09:59:22	WorkThread.cpp: 36	 1113393984 Get Task 北京
+[INFO]: 2014-05-13 09:59:22	Query.cpp: 36	 Start query word [北京]
+[INFO]: 2014-05-13 09:59:22	WorkThread.cpp: 136	 Could not find the key in cache.
+[INFO]: 2014-05-13 09:59:22	Query.cpp: 105	 Return result  [北京 北京市 北京城 北京队 北京站 ]
+Start write 2014-05-13 10:20:55
+===============================
+Start write 2014-05-13 10:22:01
+===============================
+Start write 2014-05-13 10:22:41
+===============================
+Start write 2014-05-13 10:23:35
+===============================
+Start write 2014-05-13 10:27:38
+===============================
+Start write 2014-05-13 10:30:54
+===============================
+[INFO]: 2014-05-13 10:30:54	Cache.cpp: 17	 Open cache file success
+[INFO]: 2014-05-13 10:30:54	Cache.cpp: 59	 Read cache file finished!
+[INFO]: 2014-05-13 10:30:54	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 10:30:54	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 10:30:57	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 10:31:03	Cache.cpp: 74	 Write cache file 
+[INFO]: 2014-05-13 10:31:10	ThreadPool.cpp: 77	 Add Task 北京
+[INFO]: 2014-05-13 10:31:10	WorkThread.cpp: 36	 1102887744 Get Task 北京
+[INFO]: 2014-05-13 10:31:10	Query.cpp: 36	 Start query word [北京]
+[INFO]: 2014-05-13 10:31:10	WorkThread.cpp: 136	 Could not find the key in cache.
+[INFO]: 2014-05-13 10:31:10	Query.cpp: 105	 Return result  [北京 北京市 北京城 北京队 北京站 ]
+Start write 2014-05-13 10:41:30
+===============================
+[INFO]: 2014-05-13 10:41:30	Cache.cpp: 51	 Open cache file success
+[INFO]: 2014-05-13 10:41:30	Cache.cpp: 63	 Read cache file finished!
+[INFO]: 2014-05-13 10:41:30	ThreadPool.cpp: 22	 ThreadPool Register
+[INFO]: 2014-05-13 10:41:30	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 10:41:35	ThreadPool.cpp: 44	 ThreadPool Start
+[INFO]: 2014-05-13 10:41:40	Cache.cpp: 78	 Write cache file 
+[INFO]: 2014-05-13 10:41:46	ThreadPool.cpp: 77	 Add Task 香港
+[INFO]: 2014-05-13 10:41:46	WorkThread.cpp: 36	 1085283136 Get Task 香港
+[INFO]: 2014-05-13 10:41:46	Query.cpp: 36	 Start query word [香港]
+[INFO]: 2014-05-13 10:41:46	WorkThread.cpp: 136	 Could not find the key in cache.
+[INFO]: 2014-05-13 10:41:46	Query.cpp: 105	 Return result  [香港 香港岛 香港游 香港队 香港站 ]
+Start write 2014-05-13 10:43:01
+===============================
+Start write 2014-05-13 10:54:57
+===============================
+Start write 2014-05-13 10:56:33
+===============================
+Start write 2014-05-13 11:08:28
+===============================
+Start write 2014-05-13 11:20:02
+===============================
+Start write 2014-05-13 11:29:53
+===============================
+Start write 2014-05-13 11:31:47
+===============================
+Start write 2014-05-13 11:32:43
+===============================
+Start write 2014-05-13 11:37:21
+===============================
+Start write 2014-05-13 11:38:48
+===============================
+Start write 2014-05-13 11:42:50
+===============================
+Start write 2014-05-13 11:46:25
+===============================
+Start write 2014-05-13 11:47:12
+===============================
+Start write 2014-05-13 11:49:48
+===============================
+Start write 2014-05-13 13:04:26
+===============================
+Start write 2014-05-13 13:05:04
+===============================
+[INFO]: 2014-05-13 13:05:04	Cache.cpp: 54	 Open cache file success
+[INFO]: 2014-05-13 13:05:04	Cache.cpp: 73	 Read cache file finished!
+[INFO]: 2014-05-13 13:05:04	ThreadPool.cpp: 25	 ThreadPool Register
+[INFO]: 2014-05-13 13:05:04	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 13:05:08	ThreadPool.cpp: 47	 ThreadPool Start
+[INFO]: 2014-05-13 13:05:13	Cache.cpp: 88	 Write cache file 
+[INFO]: 2014-05-13 13:05:23	Cache.cpp: 88	 Write cache file 
+[INFO]: 2014-05-13 13:05:33	Cache.cpp: 88	 Write cache file 
+[INFO]: 2014-05-13 13:05:38	ThreadPool.cpp: 80	 Add Task 北　　　京
+[INFO]: 2014-05-13 13:05:38	WorkThread.cpp: 37	 1104182080 Get Task 北　　　京
+[INFO]: 2014-05-13 13:05:38	Query.cpp: 36	 Start query word [北　　　京]
+[INFO]: 2014-05-13 13:05:38	WorkThread.cpp: 139	 Could not find [北　　　京] in cache.
+[INFO]: 2014-05-13 13:05:38	Query.cpp: 105	 Return result  [北京 北京市 北京大学 北京城 北京地区 ]
+Start write 2014-05-13 13:21:10
+===============================
+[INFO]: 2014-05-13 13:21:10	Cache.cpp: 54	 Open cache file success
+[INFO]: 2014-05-13 13:21:10	Cache.cpp: 73	 Read cache file finished!
+[INFO]: 2014-05-13 13:21:10	ThreadPool.cpp: 25	 ThreadPool Register
+[INFO]: 2014-05-13 13:21:10	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 13:21:14	ThreadPool.cpp: 47	 ThreadPool Start
+[INFO]: 2014-05-13 13:21:19	Cache.cpp: 88	 Write cache file 
+[INFO]: 2014-05-13 13:21:21	ThreadPool.cpp: 80	 Add Task 北　　　京
+[INFO]: 2014-05-13 13:21:21	WorkThread.cpp: 37	 1102887744 Get Task 北　　　京
+[INFO]: 2014-05-13 13:21:21	Query.cpp: 36	 Start query word [北　　　京]
+[INFO]: 2014-05-13 13:21:21	WorkThread.cpp: 138	 Could not find [北　　　京] in cache.
+[INFO]: 2014-05-13 13:21:21	Query.cpp: 105	 Return result  [北京 北京市 北京大学 北京城 北京地区 ]
+Start write 2014-05-13 14:36:52
+===============================
+[INFO]: 2014-05-13 14:36:52	Init.cpp: 15	 System Init...
+[INFO]: 2014-05-13 14:36:52	Init.cpp: 26	 Open config file success!
+[INFO]: 2014-05-13 14:36:52	Init.cpp: 32	 Parse config file finished.
+[INFO]: 2014-05-13 14:36:52	Cache.cpp: 54	 Open cache file success
+[INFO]: 2014-05-13 14:36:52	Cache.cpp: 73	 Read cache file finished!
+[INFO]: 2014-05-13 14:36:52	ThreadPool.cpp: 25	 ThreadPool Register
+[INFO]: 2014-05-13 14:36:52	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 14:36:56	ThreadPool.cpp: 47	 ThreadPool Start
+[INFO]: 2014-05-13 14:37:01	Cache.cpp: 88	 Write cache file 
+[INFO]: 2014-05-13 14:37:09	ThreadPool.cpp: 80	 Add Task 
+[INFO]: 2014-05-13 14:37:09	WorkThread.cpp: 37	 1087376192 Get Task 
+[END]: 2014-05-13 14:37:09	Query end
+
+
+Start write 2014-05-13 16:23:49
+===============================
+[INFO]: 2014-05-13 16:23:49	Cache.cpp: 54	 Open cache file success
+[INFO]: 2014-05-13 16:23:49	Cache.cpp: 73	 Read cache file finished!
+[INFO]: 2014-05-13 16:23:49	ThreadPool.cpp: 25	 ThreadPool Register
+[INFO]: 2014-05-13 16:23:49	Dict.cpp: 105	 Start read dict source file.
+[INFO]: 2014-05-13 16:23:52	ThreadPool.cpp: 47	 ThreadPool Start
